@@ -12,7 +12,7 @@ npm install
 npm run dev
 
 # build for production with minification
-# Project created by Vue,vuex,vue-router sử dụng axios để gọi api từ phía backend và một số plugin: comments, masonry, loader, ....
+# Project created by Vue,vuex,vue-router sử dụng axios to call api from backend and plugins plugin: comments, masonry, loader, ....
 # Featured :upload file to URL or file, login, register, change-password,authentication,..
 
 
