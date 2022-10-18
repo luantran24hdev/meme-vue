@@ -12,12 +12,12 @@ npm install
 npm run dev
 
 # build for production with minification
-# Project được làm dựa trên Vue,vuex,vue-router sử dụng axios để gọi api từ phía backend và một số plugin: comments, masonry, loader, ....
-# Chức năng :upload file theo URL hoặc file, login, register, change-password,authentication,..
+# Project created by Vue,vuex,vue-router sử dụng axios để gọi api từ phía backend và một số plugin: comments, masonry, loader, ....
+# Featured :upload file to URL or file, login, register, change-password,authentication,..
 
 
 
-# Thông tin USER ----> login
+# Infor USER ----> login
 admin : admin@gmail.com
 pass : 123123 hoặc 123456
 
